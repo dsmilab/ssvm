@@ -1,7 +1,7 @@
 # Smooth Support Vector Machine Toolbox
 
 ## Introduction
-SSVM toolbox is an implementation of Smooth Support Vector Machine in Matlab. SSVM is a reformulation of conventional SVM and can be solved by a fast Newton-Armijo algorithm. Besides, choosing a good parameter setting for a better performance in a learning task is an important issue. We also provide an automatic model selection tool to help users to get a good parameter setting. SSVM toolbox now includes smooth support vector machine for classification, epsilon-insensitive smooth support vector regression and an automatic model selection tool using uniform design.
+SSVM toolbox is an implementation of Smooth Support Vector Machine in Matlab. SSVM is a reformulation of conventional SVM and can be solved by a fast Newton-Armijo algorithm. Besides, choosing a good parameter setting for a better performance in a learning task is an important issue. We also provide an automatic model selection tool to help users to get a good parameter setting. SSVM toolbox now includes [smooth support vector machine](paper/ssvm.pdf) for classification, [epsilon-insensitive smooth support vector regression](paper/SSVR_TKDE.pdf) and an automatic [model selection tool using uniform design](paper/UD4SVM013006.pdf).
 
 ## Key Features
 * Solve classification (SSVM) and regression (SSVR) problems
